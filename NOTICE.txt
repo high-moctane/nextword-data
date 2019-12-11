@@ -1,0 +1,15 @@
+Nextword-data
+Copyright 2019 high-moctane
+
+Nextword-data is a remixed data from Google Books Ngram Viewer English Version
+20120701.
+
+------------------------------------------------------------
+Google Ngram Viewer English Version 20120701
+------------------------------------------------------------
+
+Google Ngram Viewer English Version 20120701 provided by Google LLC.
+URL: http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
+License: Creative Commons Attribution 3.0 Unported
+(http://creativecommons.org/licenses/by/3.0/)
+The data is modified by nwgen toolset (https://github.com/high-moctane/nwgen).
